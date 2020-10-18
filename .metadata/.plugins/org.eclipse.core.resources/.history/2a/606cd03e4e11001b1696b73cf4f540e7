@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form action="/FirstServlet/MyGenericServlet" method="post">
+
+<input typ="text" name="username" >
+<input typ="text" name="address" >
+ 
+<input typ="submit" name="submit" value="submit">
+
+
+</form>
+
+
+</body>
+</html>
